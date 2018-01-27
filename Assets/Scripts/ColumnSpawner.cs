@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ColumnSpawner : MonoBehaviour {
     public GameObject column;
-    public float spawnTime = 25f;
+    public float spawnTime = 1.25f;
     public float elapsedTime = 0f;
 
 

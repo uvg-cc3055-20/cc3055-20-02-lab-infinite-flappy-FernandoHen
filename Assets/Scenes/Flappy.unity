@@ -131,7 +131,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &30216173
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -729,7 +729,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   column: {fileID: 1857463939060162, guid: 9a7d061d0d702c9408654e1c3882f8d4, type: 2}
-  spawnTime: 4
+  spawnTime: 1.25
   elapsedTime: 0
 --- !u!1 &1687929710
 GameObject:
