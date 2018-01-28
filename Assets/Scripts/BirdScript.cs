@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BirdScript : MonoBehaviour {
 
-    public float jumpForce = 200f;
+    public float jumpForce = 500f;
     private Rigidbody2D rb;
 
 	void Start () {
